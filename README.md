@@ -1,1 +1,1 @@
-# db-capstone-project
+# Meta Database engineer course capstone
